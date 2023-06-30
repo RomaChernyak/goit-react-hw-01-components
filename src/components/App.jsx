@@ -1,7 +1,7 @@
-import user from './backend/user.json';
-import data from './backend/data.json';
-import friends from './backend/friends.json';
-import transactions from './backend/transactions.json';
+import user from 'backend/user.json';
+import data from 'backend/data.json';
+import friends from 'backend/friends.json';
+import transactions from 'backend/transactions.json';
 
 import Profile from './Profile/Profile';
 import Statistics from './Statistics/Statistics';
